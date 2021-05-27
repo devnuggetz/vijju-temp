@@ -1,0 +1,16 @@
+.data-field {
+  margin: 6px;
+  padding: 4px;
+  width: 20%;
+}
+
+.title {
+  background-color: aquamarine;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.subtitle {
+  background-color: azure;
+  padding: 4px;
+}

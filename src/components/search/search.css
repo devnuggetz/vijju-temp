@@ -1,0 +1,26 @@
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 12px;
+  flex-direction: column;
+}
+
+.search-box {
+  width: 50%;
+  padding: 8px;
+  border-radius: 6px;
+  outline: none;
+}
+
+.buttons {
+  padding: 6px;
+  width: 30%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.button {
+  padding: 6px;
+}
